@@ -1,0 +1,14 @@
+{
+  "name": "@alinelariguet/po-rgb-neutral-theme",
+  "version": "1.0.0",
+  "author": "",
+  "description": "Po Custom Theme - po-rgb-neutral-theme",
+  "repository": {},
+  "license": "MIT",
+  "scripts": {
+    "build": "po-theme build"
+  },
+  "devDependencies": {
+    "@po-ui/style": "^3.7.0"
+  }
+}
